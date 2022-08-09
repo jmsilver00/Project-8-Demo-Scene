@@ -1,4 +1,6 @@
 # Project-8-Demo-Scene
+Jacob Silveira
+CST-310
 
 How to Run:
 
